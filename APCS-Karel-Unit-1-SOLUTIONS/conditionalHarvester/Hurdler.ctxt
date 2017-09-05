@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=st\ av\ dir\ numBeepers
+comment0.target=Hurdler(int,\ int,\ Direction,\ int)
+comment1.params=
+comment1.target=void\ runRace()
+comment2.params=
+comment2.target=void\ checkAndJump()
+comment3.params=
+comment3.target=void\ jumpHurdle()
+comment4.params=
+comment4.target=void\ jumpUp()
+comment5.params=
+comment5.target=void\ glideDown()
+comment6.params=
+comment6.target=void\ turnRight()
+numComments=7
